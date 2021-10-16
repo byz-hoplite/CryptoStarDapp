@@ -1,0 +1,24 @@
+{
+  "name": "cryptostardapp",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/block": "^3.5.1",
+    "@ethereumjs/tx": "^3.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "fs": "0.0.1-security",
+    "openzeppelin-solidity": "^4.3.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
